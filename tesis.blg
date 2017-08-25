@@ -1,0 +1,20 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: tesis.aux
+A level-1 auxiliary file: Resumen/Resumen.aux
+A level-1 auxiliary file: Intro/introduccion.aux
+A level-1 auxiliary file: Capitulo2/TNS.aux
+A level-1 auxiliary file: Capitulo3/R.aux
+A level-1 auxiliary file: Capitulo4/resultados_y_analisis.aux
+A level-1 auxiliary file: Conclusion/conclusiones.aux
+A level-1 auxiliary file: Apendice1/Apendice1.aux
+The style file: Latex/Classes/acm-es.bst
+Database file #1: Bibliografia/Bibliog.bib
+Warning--entry type for "geo" isn't style-file defined
+--line 219 of file Bibliografia/Bibliog.bib
+Warning--entry type for "nasa" isn't style-file defined
+--line 276 of file Bibliografia/Bibliog.bib
+Warning--empty year in grieder
+Warning--empty journal in murakii
+Warning--empty year in santana
+Warning--empty year in stanev
+Warning--empty journal in watanab
+(There were 7 warnings)

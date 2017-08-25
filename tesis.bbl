@@ -1,0 +1,158 @@
+\begin{thebibliography}{10}
+
+\bibitem{openair}
+{\sc Carslaw, D.~C., y Ropkins, K.}
+\newblock openair --- an r package for air quality data analysis.
+\newblock {\em Environmental Modelling and Software 27--28}, 0 (2012), 52--61.
+
+\bibitem{rev}
+{\sc de~Lugo, M. A.~B.}
+\newblock Cien años de rayos cósmicos.
+\newblock {\em Rev. R. Acad. Cienc. Exact. Fís. Nat.\/} (2011).
+
+\bibitem{TNS}
+{\sc González, L.~X.}
+\newblock {\em El Telescopio de Neutrones Solares en Sierra Negra y
+  Aceleración de Iones en la Atmósfera Solar}.
+\newblock Tesis de Doctorado, {U}niversidad {N}acional {A}utónoma de
+  {M}éxico, 2006.
+
+\bibitem{Luisx}
+{\sc González, L.~X., et~al.}
+\newblock Energy spectrum for the solar neutron event of september 7, 2005,
+  derived from the snt at sierra negra.
+\newblock In {\em 30th {ICRC}\/} (2008).
+
+\bibitem{grieder}
+{\sc Grieder, P. K.~F.}
+\newblock {\em {C}osmic {R}ays at {E}arth}, 1st edition. 27th july 2001~ed.
+\newblock Elsevier Science.
+
+\bibitem{lubrid}
+{\sc Grolemund, G., y Wickham, H.}
+\newblock Dates and times made easy with {lubridate}.
+\newblock {\em Journal of Statistical Software 40}, 3 (2011), 1--25.
+
+\bibitem{whatCR}
+{\sc Hayanon}.
+\newblock What are cosmic rays?
+\newblock {\em Solar-Terrestrial Environment Laboratory, Nagoya University\/}
+  (2006).
+
+\bibitem{hua1987solar}
+{\sc Hua, X.-M., y Lingenfelter, R.}
+\newblock Solar flare neutron production and the angular dependence of the
+  capture gamma-ray emission.
+\newblock {\em Solar Physics 107}, 2 (1987), 351--383.
+
+\bibitem{geo}
+{\sc {Instituto de Geofísica, UNAM}}.
+\newblock
+  \url{www.geofisica.unam.mx/observatorios/rayos\_cosmicos/grupo\_raycos/antecedentes.html},
+  09 de {M}arzo de 2017.
+
+\bibitem{ggmap}
+{\sc Kahle, D., y Wickham, H.}
+\newblock ggmap: Spatial visualization with ggplot2.
+\newblock {\em The R Journal 5}, 1 (2013), 144--161.
+
+\bibitem{chismes}
+{\sc Mendoza-Ortega, B., et~al.}
+\newblock Chismes espaciales, 2001.
+
+\bibitem{murak}
+{\sc Muraki, Y., et~al.}
+\newblock {S}olar {F}lare and {N}eutron {T}elescope.
+\newblock {\em Nuclear Physics B.\/} (1998).
+
+\bibitem{murakii}
+{\sc Muraki, Y., et~al.}
+\newblock Simultaneous observation of solar neutrons from the iss and high
+  mountain observatories in association with a flare on july 8, 2014.
+
+\bibitem{nasa}
+{\sc {NASA}}.
+\newblock
+  \url{https://www.nasa.gov/mission_pages/sunearth/news/X-class-flares.html},
+  20 de {M}arzo de 2017.
+
+\bibitem{mensajeros}
+{\sc Otaola, J.~A., y Valdés-Galicia., J.~F.}
+\newblock {\em Los rayos cósmicos: mensajeros de las estrellas}.
+\newblock Fondo de Cultura Económica, 1992.
+
+\bibitem{principiantes}
+{\sc Paradis, E.}
+\newblock R para principiantes.
+
+\bibitem{manualOp}
+{\sc Pliego, F.~F.}
+\newblock {\em Lenguaje {R} aplicado al análisis de {C}alidad de {A}ire}.
+\newblock {E}nvironmental {R}isk {M}anagement, Septiembre de 2012.
+
+\bibitem{Ihaka}
+{\sc Ross-Ihaka, y Robert-Gentleman}.
+\newblock R: a language for data analysis and graphics.
+\newblock {\em Journal of Computational and Graphical Statistics 5:
+  299–314\/} (1996).
+
+\bibitem{brunorossi}
+{\sc Rossi, B.~B.}
+\newblock {\em Cosmic Rays}.
+\newblock McGraw-Hill, 1964.
+
+\bibitem{santana}
+{\sc Santana, J.~S., y Farfán., E.~M.}
+\newblock {\em El arte de programar en {R}: un lenguaje para la estadística},
+  1~ed.
+\newblock {I}nstituto {M}exicano de {T}ecnología del {A}gua.
+
+\bibitem{cosmicray}
+{\sc Schlaepfer, H.}
+\newblock {C}osmic {R}ays.
+\newblock {\em The Century of Space Science.\/} (2003).
+
+\bibitem{stanev}
+{\sc {T}odor {S}tanev}.
+\newblock {\em {H}igh {E}nergy {C}osmic {R}ays}, second edition~ed.
+\newblock Praxing Publishing.
+
+\bibitem{Tsuchiya2001183}
+{\sc Tsuchiya, H., et~al.}
+\newblock Detection efficiency of a new type of solar neutron detector
+  calibrated by an accelerator neutron beam.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment 463}, 1–2
+  (2001), 183 -- 193.
+
+\bibitem{ValdesGalicia2009565}
+{\sc Valdés-Galicia, J., et~al.}
+\newblock Solar neutron events as a tool to study particle acceleration at the
+  sun.
+\newblock {\em Advances in Space Research 43}, 4 (2009), 565 -- 572.
+
+\bibitem{valdes}
+{\sc Valdés-Galicia, J.~F., et~al.}
+\newblock A {N}ew {S}olar {N}eutron {T}elescope in {M}exico.
+\newblock In {\em 28th International Cosmic Ray Conference {(ICRC)}\/} (2004).
+
+\bibitem{watanab}
+{\sc Watanabe, K., et~al.}
+\newblock Solar neutron events of october-november 2003.
+
+\bibitem{plyr}
+{\sc Wickham, H.}
+\newblock The split-apply-combine strategy for data analysis.
+\newblock {\em Journal of Statistical Software 40}, 1 (2011), 1--29.
+
+\bibitem{tidy-data}
+{\sc Wickham, H.}
+\newblock Tidy data.
+\newblock {\em The Journal of Statistical Software 59\/} (2014).
+
+\bibitem{dply}
+{\sc Wickham, H., Francois, R., Henry, L., y Müller, K.}
+\newblock {\em dplyr: A Grammar of Data Manipulation}, 2017.
+\newblock R package version 0.7.1.
+
+\end{thebibliography}

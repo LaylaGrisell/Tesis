@@ -1,0 +1,12 @@
+library("plyr")
+library("xlsx")
+
+archivos<- read.xlsx("archivos.xlsx",1,header=TRUE,stringsAsFactors=FALSE)
+
+leer <- function(a){
+	read.table(a,sep="\t")
+}
+
+tmp <- lapply(archivos,leer)
+data_tns<- do.call(rbind,tmp)
+

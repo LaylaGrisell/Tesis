@@ -1,0 +1,46 @@
+\select@language {spanish}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Espectro de energ\IeC {\'\i }a de rayos c\IeC {\'o}smicos.\relax }}{2}{figure.caption.6}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Observaciones mensuales del n\IeC {\'u}mero manchas solares (Solar Influences Data Analysis Center (SIDC)) desde abril de 1964, y medias mensuales de las cuentas del monitor de neutrones de Oulu (Finlandia), ajustados por presi\IeC {\'o}n barom\IeC {\'e}trica y eficiencia. Actualizaci\IeC {\'o}n: 1 de marzo de 2017.\relax }}{4}{figure.caption.7}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Decrecimiento Forbush detectado por el monitor de neutrones de la Ciudad de M\IeC {\'e}xico el 22 de junio de 2015.\relax }}{5}{figure.caption.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Localizaci\IeC {\'o}n geogr\IeC {\'a}fica de los TNS alrededor del planeta.\relax }}{8}{figure.caption.9}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Esquema del TNS instalado en la cima del volc\IeC {\'a}n Sierra Negra, Puebla.\relax }}{10}{figure.caption.11}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Gr\IeC {\'a}fica que muestra el n\IeC {\'u}mero de d\IeC {\'\i }as registrados por mes y a\IeC {\~n}o.\relax }}{13}{figure.caption.12}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Entrada de datos en R}}{19}{figure.caption.16}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Creando listas y dataframes.\relax }}{20}{figure.caption.17}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Variaci\IeC {\'o}n diurna registrada por el TNS en Sierra Negra. 3 de febrero de 2014 .\relax }}{30}{figure.caption.18}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Variaci\IeC {\'o}n temporal de part\IeC {\'\i }culas neutras para el canal $S1\_A$ en 2004\relax }}{31}{figure.caption.19}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Variaci\IeC {\'o}n de las cuentas en 2004 para los cuatro canales\relax }}{32}{figure.caption.20}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Variaci\IeC {\'o}n de las cuentas para $S1\_A$ en 2005\relax }}{33}{figure.caption.22}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Variaci\IeC {\'o}n de las cuentas en 2005 para los cuatro canales\relax }}{34}{figure.caption.24}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Variaci\IeC {\'o}n de las cuentas para $S1\_A$ en 2006\relax }}{34}{figure.caption.25}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Variaci\IeC {\'o}n diurna en 2006 para los cuatro canales con anti\relax }}{35}{figure.caption.27}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Variaci\IeC {\'o}n de las cuentas para $S1\_A$ en 2008\relax }}{36}{figure.caption.28}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Variaci\IeC {\'o}n diurna en 2008 para los cuatro canales con anti\relax }}{37}{figure.caption.30}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Variaci\IeC {\'o}n de las cuentas para $S1\_A$ en 2009\relax }}{38}{figure.caption.31}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Variaci\IeC {\'o}n diurna en 2009 para los cuatro canales con anti\relax }}{39}{figure.caption.33}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Variaci\IeC {\'o}n de las cuentas para $S1\_A$ en 2010\relax }}{40}{figure.caption.34}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Variaci\IeC {\'o}n diurna en 2010 para los cuatro canales con anti\relax }}{41}{figure.caption.36}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Variaci\IeC {\'o}n de las cuentas para $S1\_A$ en 2011\relax }}{42}{figure.caption.37}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Variaci\IeC {\'o}n de las cuentas para los cuatro canales en 2011\relax }}{43}{figure.caption.39}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Variaci\IeC {\'o}n de las cuentas para $S1\_A$ en 2012\relax }}{44}{figure.caption.40}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Variaci\IeC {\'o}n diurna en 2012 para los cuatro canales con anti\relax }}{45}{figure.caption.42}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Variaci\IeC {\'o}n de las cuentas para $S1\_A$ en 2013\relax }}{46}{figure.caption.43}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Variaci\IeC {\'o}n diurna en 2013 para los cuatro canales con anti\relax }}{47}{figure.caption.45}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Variaci\IeC {\'o}n de las cuentas para $S1\_A$ en 2014\relax }}{48}{figure.caption.46}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Variaci\IeC {\'o}n diurna en 2014 para los cuatro canales con anti\relax }}{49}{figure.caption.48}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Variaci\IeC {\'o}n de las cuentas para $S1\_A$ en 2015\relax }}{50}{figure.caption.49}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Variaci\IeC {\'o}n diurna en 2015 para los cuatro canales con anti\relax }}{51}{figure.caption.51}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Variaci\IeC {\'o}n de las cuentas para $S1\_A$ en 2016\relax }}{51}{figure.caption.52}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Comportamiento de los m\IeC {\'a}ximos de la variaci\IeC {\'o}n diurna\relax }}{53}{figure.caption.54}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Comportamiento por a\IeC {\~n}o de los m\IeC {\'a}ximos de la variaci\IeC {\'o}n diurna\relax }}{53}{figure.caption.55}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Datos para el canal $S1\_A$ con raz\IeC {\'o}n de conteo 1 min.}}{55}{figure.caption.56}
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Se\IeC {\~n}al completa para $S1\_A$ con una raz\IeC {\'o}n de conteo de 24 horas.}}{56}{figure.caption.57}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Fulguraci\IeC {\'o}n solar de clase M, 12 de enero de 2015}}{59}{figure.caption.59}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Fulguraci\IeC {\'o}n solar de clase X, 27 de enero de 2012}}{60}{figure.caption.60}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces El Sol con baja actividad}}{61}{figure.caption.61}

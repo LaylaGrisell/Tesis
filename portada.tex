@@ -1,0 +1,81 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                         FORMATO DE TESIS FI UNAM                             %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% based on Harish Bhanderi's PhD/MPhil template, then Uni Cambridge
+% http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/ThesisStyle/
+% corrected and extended in 2007 by Jakob Suckale, then MPI-iCBG PhD programme
+% and made available through OpenWetWare.org - the free biology wiki
+
+%                     Under GNU License v3
+
+% ADAPTADO PARA FI-UNAM:  @Tepexic
+
+\documentclass[twoside,11pt]{Latex/Classes/PhDthesisPSnPDF}
+%         PUEDEN INCLUIR EN ESTE ESPACIO LOS PAQUETES EXTRA, O BIEN, EN EL ARCHIVO "PhDthesisPSnPDF.cls" EN "./Latex/Classes/"
+\usepackage{blindtext}                        % Para insertar texto dummy, de ejemplo, pues.
+\usepackage[round, sort, numbers]{natbib}  % Personalizar la bibliografía a gusto de cada quien
+% Note:
+% The \blindtext or \Blindtext commands throughout this template generate dummy text
+% to fill the template out. These commands should all be removed when 
+% writing thesis content.
+\usepackage[lmargin=4cm,rmargin=4cm, top=3cm, bottom=4cm ]{geometry}
+\include{Latex/Macros/MacroFile1}           % Archivo con funciones útiles
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                   DATOS                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{Análisis de estabilidad de Partículas Neutras detectadas por el Telescopio de Neutrones Solares en Sierra Negra, Puebla}
+\author{Griselda Barón Martínez} 
+\facultad{Facultad de Ciencias}                 % Nombre de la facultad/escuela
+\escudofacultad{Latex/Classes/Escudos/fc_azul} % Aquí ponen la ruta y nombre del escudo de su facultad, actualmente, la carpeta Latex/Classes/Escudos cuenta con los siguientes escudos:
+% "fi_azul" Facultad de ingenieria en color azul
+% "fi_negro" Facultad de ingenieria en color negro
+% "fc_azul" Facultad de ciencias en color azul
+% "fc_negro" Facultad de ciencias en color negro
+% Se agradecen sus aportaciones de escudos a jebus.velazquez@gmail.com
+
+\degree{Matemática}        % Carrera
+\director{Dr. Luis Xavier González Méndez}               % Director de tesis
+\degreedate{2017}                           % Año de la fecha del examen
+\lugar{Ciudad Universitaria}                        % Lugar
+
+%\portadafalse                              % Portada en NEGRO, descomentar y comentar la línea siguiente si se quiere utilizar
+\portadatrue                                % Portada en COLOR
+
+
+
+%% Opciones del posgrado (descomentar si las necesitan)
+	%\posgradotrue                                                    
+	%\programa{programa de maestría y doctorado en ingeniería}
+	%\campo{Ingeniería Eléctrica - Control}
+	%% En caso de que haya comité tutor
+	%\comitetrue
+	%\ctutoruno{Dr. Emmet L. Brown}
+	%\ctutordos{Dr. El Doctor}
+%% Datos del jurado                             
+	%\presidente{Dr. 1}
+	%\secretario{Dr. 2}
+	%\vocal{Dr. 3}
+	%\supuno{Dr. 4}
+	%\supdos{Dr. 5}
+	%\institucion{el Instituto de Ingeniería, UNAM}
+
+\keywords{tesis,autor,tutor,etc}            % Palablas clave para los metadatos del PDF
+\subject{tema_1,tema_2}                     % Tema para metadatos del PDF  
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                   PORTADA                         %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\maketitle									% Se redefinió este comando en el archivo de la clase para generar automáticamente la portada a partir de los datos
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                  PRÓLOGO                          %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
